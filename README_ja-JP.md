@@ -9,9 +9,9 @@
 [![license][license-image]][license-url]
 [![evaluation][evaluation-image]][evaluation-url]
 
-[🤗HuggingFace][HuggingFace_Model-url] | [![OpenXLab_Model][OpenXLab_Model-image]][OpenXLab_Model-url] | [<img src="./assets/modelscope_logo.png" width="20px" /> ModelScope][ModelScope-url]
+[🤗HuggingFace][HuggingFace_Model-url] | [![OpenXLab_Model][OpenXLab_Model-image]][OpenXLab_Model-url] | [<img src="./assets/modelscope_logo.png" width="20px" /> ModelScope][ModelScope-url] | [🤗HuggingFace-GGUF][HuggingFace_Model-GGUF-url]
 
-[![OpenXLab_App][OpenXLab_App-image]][OpenXLab_App-url] | [🆕更新情報](#-news) | [🤔問題報告][Issues-url] 丨 [![bilibili][bilibili-image]][bilibili-url]
+[![OpenXLab_App][OpenXLab_App-image]][OpenXLab_App-url] | [🆕Update News](#-news) | [🤔Reporting Issues][Issues-url] 丨 [![bilibili][bilibili-image]][bilibili-url]
 
 [English](./README_en-US.md) | [简体中文](./README.md) | [日本語](./README_ja-JP.md)
 
@@ -25,6 +25,7 @@
 [license-url]: ./LICENSE
 [evaluation-url]: https://github.com/internLM/OpenCompass/
 [HuggingFace_Model-url]: https://huggingface.co/axyzdong/AMchat
+[HuggingFace_Model-GGUF-url]: https://huggingface.co/axyzdong/AMchat-GGUF
 [OpenXLab_Model-url]: https://openxlab.org.cn/models/detail/youngdon/AMchat
 [ModelScope-url]: https://www.modelscope.cn/models/yondong/AMchat/summary
 [OpenXLab_App-url]: https://openxlab.org.cn/apps/detail/youngdon/AMchat
@@ -62,6 +63,8 @@ AM (Advanced Mathematics) Chatは、数学知識、高等数学の問題、お�
 </p>
 
 ## 🚀 ニュース
+
+[2024.08.09] Q8_0定量モデル[AMchat-q8_0.gguf](https://huggingface.co/axyzdong/AMchat-GGUF)をリリースしました。
 
 [2024.06.23] InternLM2-Math-Plus-20B モデルのファインチューニングを行い。
 
